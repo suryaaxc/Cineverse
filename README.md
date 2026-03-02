@@ -56,7 +56,6 @@ To run Cineverse locally, follow these steps:
 
 ```
 git clone https://github.com/nikhilsundriya/Cineverse.git
-=======
 git clone https://github.com/nikhilsundriya/cineverse.git
 
 ```
