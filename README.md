@@ -52,7 +52,7 @@ Cineverse is built using the following technologies:
 
 To run Cineverse locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: 
 
 ```
 git clone https://github.com/nikhilsundriya/Cineverse.git
